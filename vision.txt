@@ -1,1 +1,5 @@
-vision is to make a machine learning library for everyone anyone can make use of it and it's well optimized too! Just by prompts now you can make a machine learning model for understanding the things what is machine learning and how can we use it .These things will make it easier for beginners though it will not be nuc powerful than pytorch but our aim is to achieve atleast 70% of keras speed. Which is pretty good
+vision is to make a machine learning library for everyone anyone can make use of it and it's well optimized too!
+
+Just by prompts now you can make a machine learning model for understanding the things what is machine learning and how can we use it .
+
+These things will make it easier for beginners though it will not be nuc powerful than pytorch but our aim is to achieve atleast 70% of keras speed. Which is pretty good!!
